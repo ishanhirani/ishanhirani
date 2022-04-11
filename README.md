@@ -4,9 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... college android application(final year project)
-- 🌱 I’m currently learning ... java
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working in accenture
+- 🌱 I’m currently learning ... MEAN stack
 - 📫 How to reach me: ... www.linkedin.com/in/ishanhirani
-- ⚡ Fun fact: ... i love coding and Cloud computing
+- ⚡ Fun fact: ... i am fitness freak and the fullstack developer
 
