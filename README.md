@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in accenture
-- 🌱 I’m currently learning ... MEAN stack
+- 🌱 I’m currently learning ... Data Analytics
 - 📫 How to reach me: ... www.linkedin.com/in/ishanhirani
-- ⚡ Fun fact: ... i am fitness freak and the fullstack developer
+- ⚡ Fun fact: ... Torture the data and it will confess to any thing
 
