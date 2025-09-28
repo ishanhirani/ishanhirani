@@ -6,13 +6,14 @@
 - **Languages:** JavaScript, Python, SQL  
 - **Automation Frameworks:** Playwright, WebdriverIO, Cucumber
 - **API & Performance Testing:** Postman, Jmeter, Blazemeter
-- **CI/CD & Tools:** GitHub, Jenkins, Docker  
+- **Version Control & Tools:** Git, GitHub, Gitlab, Jira
 - **Databases:** MySQL, Oracle, MongoDB, snowflake 
 
 ### 🏆 Achievements
 - 🔹 **GATE exam** (Computer Science)  
 - 🔹 **Accenture Growth Catalyst Award**  
 - 🔹 **Powerlifting Nationals (Gold Medalist)**
+- 🔹 **Azure CLoud Certified(AZ-900, AI-900, DP-900)**
 - 🔹 **GATE CSE EXAM Qualified**
 - 🔹 **10 CGPA** in academics  
 - 🔹 **AI & ML postgrad advanced certification (IIT Jodhpur)** 
