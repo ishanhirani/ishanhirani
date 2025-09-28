@@ -18,4 +18,4 @@
 - 🔹 **AI & ML postgrad advanced certification (IIT Jodhpur)** 
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ishanhirani) |  [Email](https://ishan.hirani.nextgen@gmail.com) | [Portfolio](https://ishanhirani.github.io/portfolio_website/)  
+[LinkedIn](https://www.linkedin.com/in/ishanhirani) |  [Email](mailto:ishan.hirani.nextgen@gmail.com) | [Portfolio](https://ishanhirani.github.io/portfolio_website/)  
