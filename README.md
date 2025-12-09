@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ishan - Freelancer
+# Hi there 👋 I'm Ishan
 
 🚀 **Software Development Engineer in Test (SDET) | QA Automation | Data & AI/ML Enthusiast** 
 
